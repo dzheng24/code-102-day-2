@@ -1,2 +1,2 @@
 # code-102-day-2
-Making a change 
+learning on day 2
